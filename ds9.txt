@@ -1,305 +1,161 @@
-#EXTM3U
-#EXTINF:-1 group-title="央视频道B",CCTV1HD
-http://107.150.60.122/live/cctv1hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV2HD
-http://107.150.60.122/live/cctv2hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV3HD
-http://107.150.60.122/live/cctv3hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV4HD
-http://107.150.60.122/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV5HD
-http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV6HD
-http://107.150.60.122/live/cctv6hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV7HD
-http://107.150.60.122/live/cctv7hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV8HD
-http://107.150.60.122/live/cctv8hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV9HD
-http://107.150.60.122/live/cctv9hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV10HD
-http://107.150.60.122/live/cctv10hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV11HD
-http://107.150.60.122/live/cctv11hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV12HD
-http://107.150.60.122/live/cctv12hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV13HD
-http://107.150.60.122/live/cctv13hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV14HD
-http://107.150.60.122/live/cctv14hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV15HD
-http://107.150.60.122/live/cctv15hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV16HD
-http://107.150.60.122/live/cctv16hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV17HD
-http://107.150.60.122/live/cctv17hd.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV5+HD
-http://107.150.60.122/live/cctv5p.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV4K超高清
-http://107.150.60.122/live/cctv4k.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV8K超高清
-http://107.150.60.122/live/cctv8k.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV央视文化精品
-http://107.150.60.122/live/ysjp.m3u8
-#EXTINF:-1 group-title="央视频道B",CCTV卫生健康
-http://107.150.60.122/live/wsjk.m3u8
-#EXTINF:-1 group-title="卫视频道B",湖南卫视HD
-http://107.150.60.122/live/hnwshd.m3u8
-#EXTINF:-1 group-title="卫视频道B",东方卫视HD
-http://107.150.60.122/live/dfwshd.m3u8
-#EXTINF:-1 group-title="卫视频道B",浙江卫视HD
-http://107.150.60.122/live/zjwshd.m3u8
-#EXTINF:-1 group-title="卫视频道B",江苏卫视HD
-http://107.150.60.122/live/jswshd.m3u8
-#EXTINF:-1 group-title="卫视频道B",东南卫视HD
-http://107.150.60.122/live/dnwshd.m3u8
-#EXTINF:-1 group-title="卫视频道B",广西卫视HD
-http://107.150.60.122/live/gxwshd.m3u8
-#EXTINF:-1 group-title="卫视频道B",湖北卫视HD
-http://107.150.60.122/live/hbwshd.m3u8
-#EXTINF:-1 group-title="卫视频道B",辽宁卫视HD
-http://107.150.60.122/live/lnwshd.m3u8
-#EXTINF:-1 group-title="卫视频道B",山东卫视HD
-http://107.150.60.122/live/sdwshd.m3u8
-#EXTINF:-1 group-title="卫视频道B",天津卫视HD
-http://107.150.60.122/live/tjwshd.m3u8
-#EXTINF:-1 group-title="卫视频道B",陕西卫视HD
-http://107.150.60.122/live/snwshd.m3u8
-#EXTINF:-1 group-title="卫视频道B",广东卫视HD
-http://107.150.60.122/live/gdwshd.m3u8
-#EXTINF:-1 group-title="卫视频道B",深圳卫视HD
-http://107.150.60.122/live/szwshd.m3u8
-#EXTINF:-1 group-title="卫视频道B",青海卫视
-http://107.150.60.122/live/qhws.m3u8
-#EXTINF:-1 group-title="卫视频道B",西藏卫视
-http://107.150.60.122/live/xzws.m3u8
-#EXTINF:-1 group-title="卫视频道B",大湾区卫视
-http://107.150.60.122/live/nfws.m3u8
-#EXTINF:-1 group-title="卫视频道B",北京卡酷少儿
-http://107.150.60.122/live/btvkk.m3u8
-#EXTINF:-1 group-title="卫视频道B",中央新影-发现之旅
-http://107.150.60.122/live/fxzl.m3u8
-#EXTINF:-1 group-title="卫视频道B",中央新影-老故事
-http://107.150.60.122/live/lgs.m3u8
-#EXTINF:-1 group-title="卫视频道B",中国教育3
-http://107.150.60.122/live/cetv3.m3u8
-#EXTINF:-1 group-title="卫视频道B",广东珠江
-http://107.150.60.122/live/gdzj.m3u8
-#EXTINF:-1 group-title="卫视频道B",广东新闻
-http://107.150.60.122/live/gdxw.m3u8
-#EXTINF:-1 group-title="卫视频道B",广西影视
-http://107.150.60.122/live/gxys.m3u8
-#EXTINF:-1 group-title="卫视频道B",广西综艺旅游
-http://107.150.60.122/live/gxzy.m3u8
-#EXTINF:-1 group-title="卫视频道B",广西都市
-http://107.150.60.122/live/gxds.m3u8
-#EXTINF:-1 group-title="卫视频道B",广西新闻
-http://107.150.60.122/live/gxxw.m3u8
-#EXTINF:-1 group-title="卫视频道B",广西国际
-http://107.150.60.122/live/gxgj.m3u8
-#EXTINF:-1 group-title="卫视频道B",湖北综合
-http://107.150.60.122/live/hbzh.m3u8
-#EXTINF:-1 group-title="卫视频道B",湖北经视
-http://107.150.60.122/live/hbjs.m3u8
-#EXTINF:-1 group-title="卫视频道B",湖北影视
-http://107.150.60.122/live/hbys.m3u8
-#EXTINF:-1 group-title="卫视频道B",湖北教育
-http://107.150.60.122/live/hbjy.m3u8
-#EXTINF:-1 group-title="卫视频道B",湖北垄上
-http://107.150.60.122/live/hbls.m3u8
-#EXTINF:-1 group-title="卫视频道B",湖北生活
-http://107.150.60.122/live/hbty.m3u8
-#EXTINF:-1 group-title="卫视频道B",湖南娱乐
-http://107.150.60.122/live/hnyl.m3u8
-#EXTINF:-1 group-title="卫视频道B",湖南教育
-http://107.150.60.122/live/hnjy.m3u8
-#EXTINF:-1 group-title="卫视频道B",吉林都市
-http://107.150.60.122/live/jlds.m3u8
-#EXTINF:-1 group-title="卫视频道B",吉林综艺文化
-http://107.150.60.122/live/jlfz.m3u8
-#EXTINF:-1 group-title="卫视频道B",吉林生活
-http://107.150.60.122/live/jlsh.m3u8
-#EXTINF:-1 group-title="卫视频道B",新疆汉语影视
-http://107.150.60.122/live/xjtv6.m3u8
-#EXTINF:-1 group-title="卫视频道B",江西新闻频道
-http://107.150.60.122/live/jxtv7.m3u8
-#EXTINF:-1 group-title="卫视频道B",下载可至↓
-https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
-#EXTINF:-1 group-title="卫视频道B",apkck.top
-https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
-#EXTINF:-1 group-title="央视频道C",CCTV1-综合
-http://120.202.94.181:9446/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道C",CCTV2-财经
-http://120.202.94.181:9446/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道C",CCTV3-综艺
-http://120.202.94.181:9446/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道C",CCTV4-国际
-http://120.202.94.181:9446/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道C",CCTV5-体育
-http://120.202.94.181:9446/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道C",CCTV6-电影
-http://120.202.94.181:9446/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道C",CCTV7-军农
-http://120.202.94.181:9446/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道C",CCTV8-电视剧
-http://120.202.94.181:9446/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道C",CCTV9-纪录
-http://120.202.94.181:9446/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道C",CCTV10-科教
-http://120.202.94.181:9446/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道C",CCTV11-戏曲
-http://120.202.94.181:9446/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道C",CCTV12-社会与法
-http://120.202.94.181:9446/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道C",CCTV13-新闻
-http://120.202.94.181:9446/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道C",CCTV14-少儿
-http://120.202.94.181:9446/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道C",CCTV15-音乐
-http://120.202.94.181:9446/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道C",湖北卫视
-http://120.202.94.181:9446/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道C",湖北综合
-http://120.202.94.181:9446/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道C",湖北影视
-http://120.202.94.181:9446/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道C",湖北生活
-http://120.202.94.181:9446/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道C",湖北教育
-http://120.202.94.181:9446/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道C",湖南电视
-http://120.202.94.181:9446/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道C",浙江卫视
-http://120.202.94.181:9446/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道C",江苏卫视
-http://120.202.94.181:9446/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道C",北京卫视
-http://120.202.94.181:9446/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道C",广东卫视
-http://120.202.94.181:9446/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="卫视频道C",深圳卫视
-http://120.202.94.181:9446/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="央视频道D",CCTV1HD
-http://107.150.60.122/live/cctv1hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV2HD
-http://107.150.60.122/live/cctv2hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV3HD
-http://107.150.60.122/live/cctv3hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV4HD
-http://107.150.60.122/live/cctv4hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV5HD
-http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV6HD
-http://107.150.60.122/live/cctv6hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV7HD
-http://107.150.60.122/live/cctv7hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV8HD
-http://107.150.60.122/live/cctv8hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV9HD
-http://107.150.60.122/live/cctv9hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV10HD
-http://107.150.60.122/live/cctv10hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV11HD
-http://107.150.60.122/live/cctv11hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV12HD
-http://107.150.60.122/live/cctv12hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV13HD
-http://107.150.60.122/live/cctv13hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV14HD
-http://107.150.60.122/live/cctv14hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV15HD
-http://107.150.60.122/live/cctv15hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV16HD
-http://107.150.60.122/live/cctv16hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV17HD
-http://107.150.60.122/live/cctv17hd.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV5+HD
-http://107.150.60.122/live/cctv5p.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV4K超高清
-http://107.150.60.122/live/cctv4k.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV8K超高清
-http://107.150.60.122/live/cctv8k.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV央视文化精品
-http://107.150.60.122/live/ysjp.m3u8
-#EXTINF:-1 group-title="央视频道D",CCTV卫生健康
-http://107.150.60.122/live/wsjk.m3u8
-#EXTINF:-1 group-title="卫视频道D",湖南卫视HD
-http://107.150.60.122/live/hnwshd.m3u8
-#EXTINF:-1 group-title="卫视频道D",东方卫视HD
-http://107.150.60.122/live/dfwshd.m3u8
-#EXTINF:-1 group-title="卫视频道D",浙江卫视HD
-http://107.150.60.122/live/zjwshd.m3u8
-#EXTINF:-1 group-title="卫视频道D",江苏卫视HD
-http://107.150.60.122/live/jswshd.m3u8
-#EXTINF:-1 group-title="卫视频道D",东南卫视HD
-http://107.150.60.122/live/dnwshd.m3u8
-#EXTINF:-1 group-title="卫视频道D",广西卫视HD
-http://107.150.60.122/live/gxwshd.m3u8
-#EXTINF:-1 group-title="卫视频道D",湖北卫视HD
-http://107.150.60.122/live/hbwshd.m3u8
-#EXTINF:-1 group-title="卫视频道D",辽宁卫视HD
-http://107.150.60.122/live/lnwshd.m3u8
-#EXTINF:-1 group-title="卫视频道D",山东卫视HD
-http://107.150.60.122/live/sdwshd.m3u8
-#EXTINF:-1 group-title="卫视频道D",天津卫视HD
-http://107.150.60.122/live/tjwshd.m3u8
-#EXTINF:-1 group-title="卫视频道D",陕西卫視HD
-http://107.150.60.122/live/snwshd.m3u8
-#EXTINF:-1 group-title="卫视频道D",广东卫视HD
-http://107.150.60.122/live/gdwshd.m3u8
-#EXTINF:-1 group-title="卫视频道D",深圳卫视HD
-http://107.150.60.122/live/szwshd.m3u8
-#EXTINF:-1 group-title="卫视频道D",青海卫视
-http://107.150.60.122/live/qhws.m3u8
-#EXTINF:-1 group-title="卫视频道D",西藏卫视
-http://107.150.60.122/live/xzws.m3u8
-#EXTINF:-1 group-title="卫视频道D",大湾区卫视
-http://107.150.60.122/live/nfws.m3u8
-#EXTINF:-1 group-title="卫视频道D",北京卡酷少儿
-http://107.150.60.122/live/btvkk.m3u8
-#EXTINF:-1 group-title="卫视频道D",中央新影-发现之旅
-http://107.150.60.122/live/fxzl.m3u8
-#EXTINF:-1 group-title="卫视频道D",中央新影-老故事
-http://107.150.60.122/live/lgs.m3u8
-#EXTINF:-1 group-title="衛视频道D",中国教育3
-http://107.150.60.122/live/cetv3.m3u8
-#EXTINF:-1 group-title="卫视频道D",广东珠江
-http://107.150.60.122/live/gdzj.m3u8
-#EXTINF:-1 group-title="卫视频道D",广东新闻
-http://107.150.60.122/live/gdxw.m3u8
-#EXTINF:-1 group-title="卫视频道D",广西影视
-http://107.150.60.122/live/gxys.m3u8
-#EXTINF:-1 group-title="卫视频道D",广西综艺旅游
-http://107.150.60.122/live/gxzy.m3u8
-#EXTINF:-1 group-title="卫视频道D",广西都市
-http://107.150.60.122/live/gxds.m3u8
-#EXTINF:-1 group-title="卫视频道D",广西新闻
-http://107.150.60.122/live/gxxw.m3u8
-#EXTINF:-1 group-title="卫视频道D",广西国际
-http://107.150.60.122/live/gxgj.m3u8
-#EXTINF:-1 group-title="卫视频道D",湖北综合
-http://107.150.60.122/live/hbzh.m3u8
-#EXTINF:-1 group-title="卫视频道D",湖北经视
-http://107.150.60.122/live/hbjs.m3u8
-#EXTINF:-1 group-title="卫视频道D",湖北影视
-http://107.150.60.122/live/hbys.m3u8
-#EXTINF:-1 group-title="卫视频道D",湖北教育
-http://107.150.60.122/live/hbjy.m3u8
-#EXTINF:-1 group-title="卫视频道D",湖北垄上
-http://107.150.60.122/live/hbls.m3u8
-#EXTINF:-1 group-title="卫视频道D",湖北生活
-http://107.150.60.122/live/hbty.m3u8
-#EXTINF:-1 group-title="卫视频道D",湖南娱乐
-http://107.150.60.122/live/hnyl.m3u8
-#EXTINF:-1 group-title="卫视频道D",湖南教育
-http://107.150.60.122/live/hnjy.m3u8
-#EXTINF:-1 group-title="卫视频道D",吉林都市
-http://107.150.60.122/live/jlds.m3u8
-#EXTINF:-1 group-title="卫视频道D",吉林综艺文化
-http://107.150.60.122/live/jlfz.m3u8
-#EXTINF:-1 group-title="卫视频道D",吉林生活
-http://107.150.60.122/live/jlsh.m3u8
-#EXTINF:-1 group-title="卫视频道D",新疆汉语影视
-http://107.150.60.122/live/xjtv6.m3u8
-#EXTINF:-1 group-title="卫视频道D",江西新闻频道
-http://107.150.60.122/live/jxtv7.m3u8
+//▃▃▃▃▃▃▃▃▃
+央视频道B,#genre#
+CCTV1HD,http://107.150.60.122/live/cctv1hd.m3u8
+CCTV2HD,http://107.150.60.122/live/cctv2hd.m3u8
+CCTV3HD,http://107.150.60.122/live/cctv3hd.m3u8
+CCTV4HD,http://107.150.60.122/live/cctv4hd.m3u8
+CCTV5HD,http://107.150.60.122/live/cctv5hd.m3u8
+CCTV6HD,http://107.150.60.122/live/cctv6hd.m3u8
+CCTV7HD,http://107.150.60.122/live/cctv7hd.m3u8
+CCTV8HD,http://107.150.60.122/live/cctv8hd.m3u8
+CCTV9HD,http://107.150.60.122/live/cctv9hd.m3u8
+CCTV10HD,http://107.150.60.122/live/cctv10hd.m3u8
+CCTV11HD,http://107.150.60.122/live/cctv11hd.m3u8
+CCTV12HD,http://107.150.60.122/live/cctv12hd.m3u8
+CCTV13HD,http://107.150.60.122/live/cctv13hd.m3u8
+CCTV14HD,http://107.150.60.122/live/cctv14hd.m3u8
+CCTV15HD,http://107.150.60.122/live/cctv15hd.m3u8
+CCTV16HD,http://107.150.60.122/live/cctv16hd.m3u8
+CCTV17HD,http://107.150.60.122/live/cctv17hd.m3u8
+CCTV5+HD,http://107.150.60.122/live/cctv5p.m3u8
+CCTV4K超高清,http://107.150.60.122/live/cctv4k.m3u8
+CCTV8K超高清,http://107.150.60.122/live/cctv8k.m3u8
+CCTV央视文化精品,http://107.150.60.122/live/ysjp.m3u8
+CCTV卫生健康,http://107.150.60.122/live/wsjk.m3u8
+卫视频道B,#genre#
+湖南卫视HD,http://107.150.60.122/live/hnwshd.m3u8
+东方卫视HD,http://107.150.60.122/live/dfwshd.m3u8
+浙江卫视HD,http://107.150.60.122/live/zjwshd.m3u8
+江苏卫视HD,http://107.150.60.122/live/jswshd.m3u8
+东南卫视HD,http://107.150.60.122/live/dnwshd.m3u8
+广西卫视HD,http://107.150.60.122/live/gxwshd.m3u8
+湖北卫视HD,http://107.150.60.122/live/hbwshd.m3u8
+辽宁卫视HD,http://107.150.60.122/live/lnwshd.m3u8
+山东卫视HD,http://107.150.60.122/live/sdwshd.m3u8
+天津卫视HD,http://107.150.60.122/live/tjwshd.m3u8
+陕西卫视HD,http://107.150.60.122/live/snwshd.m3u8
+广东卫视HD,http://107.150.60.122/live/gdwshd.m3u8
+深圳卫视HD,http://107.150.60.122/live/szwshd.m3u8
+青海卫视,http://107.150.60.122/live/qhws.m3u8
+西藏卫视,http://107.150.60.122/live/xzws.m3u8
+大湾区卫视,http://107.150.60.122/live/nfws.m3u8
+北京卡酷少儿,http://107.150.60.122/live/btvkk.m3u8
+中央新影-发现之旅,http://107.150.60.122/live/fxzl.m3u8
+中央新影-老故事,http://107.150.60.122/live/lgs.m3u8
+中国教育3,http://107.150.60.122/live/cetv3.m3u8
+广东珠江,http://107.150.60.122/live/gdzj.m3u8
+广东新闻,http://107.150.60.122/live/gdxw.m3u8
+广西影视,http://107.150.60.122/live/gxys.m3u8
+广西综艺旅游,http://107.150.60.122/live/gxzy.m3u8
+广西都市,http://107.150.60.122/live/gxds.m3u8
+广西新闻,http://107.150.60.122/live/gxxw.m3u8
+广西国际,http://107.150.60.122/live/gxgj.m3u8
+湖北综合,http://107.150.60.122/live/hbzh.m3u8
+湖北经视,http://107.150.60.122/live/hbjs.m3u8
+湖北影视,http://107.150.60.122/live/hbys.m3u8
+湖北教育,http://107.150.60.122/live/hbjy.m3u8
+湖北垄上,http://107.150.60.122/live/hbls.m3u8
+湖北生活,http://107.150.60.122/live/hbty.m3u8
+湖南娱乐,http://107.150.60.122/live/hnyl.m3u8
+湖南教育,http://107.150.60.122/live/hnjy.m3u8
+吉林都市,http://107.150.60.122/live/jlds.m3u8
+吉林综艺文化,http://107.150.60.122/live/jlfz.m3u8
+吉林生活,http://107.150.60.122/live/jlsh.m3u8
+新疆汉语影视,http://107.150.60.122/live/xjtv6.m3u8
+江西新闻频道,http://107.150.60.122/live/jxtv7.m3u8
+下载可至↓,https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+apkck.top,https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+//▃▃▃▃▃▃▃▃▃
+央视频道C,#genre#
+CCTV1-综合,http://120.202.94.181:9446/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV2-财经,http://120.202.94.181:9446/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV3-综艺,http://120.202.94.181:9446/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV4-国际,http://120.202.94.181:9446/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV5-体育,http://120.202.94.181:9446/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6-电影,http://120.202.94.181:9446/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV7-军农,http://120.202.94.181:9446/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV8-电视剧,http://120.202.94.181:9446/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV9-纪录,http://120.202.94.181:9446/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV10-科教,http://120.202.94.181:9446/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV11-戏曲,http://120.202.94.181:9446/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV12-社会与法,http://120.202.94.181:9446/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13-新闻,http://120.202.94.181:9446/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV14-少儿,http://120.202.94.181:9446/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV15-音乐,http://120.202.94.181:9446/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+卫视频道C,#genre#
+湖北卫视,http://120.202.94.181:9446/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北综合,http://120.202.94.181:9446/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北影视,http://120.202.94.181:9446/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北生活,http://120.202.94.181:9446/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+湖北教育,http://120.202.94.181:9446/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+湖南电视,http://120.202.94.181:9446/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+浙江卫视,http://120.202.94.181:9446/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+江苏卫视,http://120.202.94.181:9446/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+北京卫视,http://120.202.94.181:9446/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
+广东卫视,http://120.202.94.181:9446/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳卫视,http://120.202.94.181:9446/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
+//▃▃▃▃▃▃▃▃▃
+央视频道D,#genre#
+CCTV1HD,http://107.150.60.122/live/cctv1hd.m3u8
+CCTV2HD,http://107.150.60.122/live/cctv2hd.m3u8
+CCTV3HD,http://107.150.60.122/live/cctv3hd.m3u8
+CCTV4HD,http://107.150.60.122/live/cctv4hd.m3u8
+CCTV5HD,http://107.150.60.122/live/cctv5hd.m3u8
+CCTV6HD,http://107.150.60.122/live/cctv6hd.m3u8
+CCTV7HD,http://107.150.60.122/live/cctv7hd.m3u8
+CCTV8HD,http://107.150.60.122/live/cctv8hd.m3u8
+CCTV9HD,http://107.150.60.122/live/cctv9hd.m3u8
+CCTV10HD,http://107.150.60.122/live/cctv10hd.m3u8
+CCTV11HD,http://107.150.60.122/live/cctv11hd.m3u8
+CCTV12HD,http://107.150.60.122/live/cctv12hd.m3u8
+CCTV13HD,http://107.150.60.122/live/cctv13hd.m3u8
+CCTV14HD,http://107.150.60.122/live/cctv14hd.m3u8
+CCTV15HD,http://107.150.60.122/live/cctv15hd.m3u8
+CCTV16HD,http://107.150.60.122/live/cctv16hd.m3u8
+CCTV17HD,http://107.150.60.122/live/cctv17hd.m3u8
+CCTV5+HD,http://107.150.60.122/live/cctv5p.m3u8
+CCTV4K超高清,http://107.150.60.122/live/cctv4k.m3u8
+CCTV8K超高清,http://107.150.60.122/live/cctv8k.m3u8
+CCTV央视文化精品,http://107.150.60.122/live/ysjp.m3u8
+CCTV卫生健康,http://107.150.60.122/live/wsjk.m3u8
+卫视频道D,#genre#
+湖南卫视HD,http://107.150.60.122/live/hnwshd.m3u8
+东方卫视HD,http://107.150.60.122/live/dfwshd.m3u8
+浙江卫视HD,http://107.150.60.122/live/zjwshd.m3u8
+江苏卫视HD,http://107.150.60.122/live/jswshd.m3u8
+东南卫视HD,http://107.150.60.122/live/dnwshd.m3u8
+广西卫视HD,http://107.150.60.122/live/gxwshd.m3u8
+湖北卫视HD,http://107.150.60.122/live/hbwshd.m3u8
+辽宁卫视HD,http://107.150.60.122/live/lnwshd.m3u8
+山东卫视HD,http://107.150.60.122/live/sdwshd.m3u8
+天津卫视HD,http://107.150.60.122/live/tjwshd.m3u8
+陕西卫视HD,http://107.150.60.122/live/snwshd.m3u8
+广东卫视HD,http://107.150.60.122/live/gdwshd.m3u8
+深圳卫视HD,http://107.150.60.122/live/szwshd.m3u8
+青海卫视,http://107.150.60.122/live/qhws.m3u8
+西藏卫视,http://107.150.60.122/live/xzws.m3u8
+大湾区卫视,http://107.150.60.122/live/nfws.m3u8
+北京卡酷少儿,http://107.150.60.122/live/btvkk.m3u8
+中央新影-发现之旅,http://107.150.60.122/live/fxzl.m3u8
+中央新影-老故事,http://107.150.60.122/live/lgs.m3u8
+中国教育3,http://107.150.60.122/live/cetv3.m3u8
+广东珠江,http://107.150.60.122/live/gdzj.m3u8
+广东新闻,http://107.150.60.122/live/gdxw.m3u8
+广西影视,http://107.150.60.122/live/gxys.m3u8
+广西综艺旅游,http://107.150.60.122/live/gxzy.m3u8
+广西都市,http://107.150.60.122/live/gxds.m3u8
+广西新闻,http://107.150.60.122/live/gxxw.m3u8
+广西国际,http://107.150.60.122/live/gxgj.m3u8
+湖北综合,http://107.150.60.122/live/hbzh.m3u8
+湖北经视,http://107.150.60.122/live/hbjs.m3u8
+湖北影视,http://107.150.60.122/live/hbys.m3u8
+湖北教育,http://107.150.60.122/live/hbjy.m3u8
+湖北垄上,http://107.150.60.122/live/hbls.m3u8
+湖北生活,http://107.150.60.122/live/hbty.m3u8
+湖南娱乐,http://107.150.60.122/live/hnyl.m3u8
+湖南教育,http://107.150.60.122/live/hnjy.m3u8
+吉林都市,http://107.150.60.122/live/jlds.m3u8
+吉林综艺文化,http://107.150.60.122/live/jlfz.m3u8
+吉林生活,http://107.150.60.122/live/jlsh.m3u8
+新疆汉语影视,http://107.150.60.122/live/xjtv6.m3u8
+江西新闻频道,http://107.150.60.122/live/jxtv7.m3u8
