@@ -7,4 +7,4 @@ People from outside of China often need a VPN to watch TV channels from China.  
 
 https://d.kstore.dev/download/12441/ds9.txt
 
-https://github.com/fafa002/yf2025/blob/main/yiyifafa.txt
+https://github.com/fafa002/yf2025/raw/refs/heads/main/yiyifafa.txt
