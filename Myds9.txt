@@ -1,4 +1,11 @@
-﻿//▃▃▃▃▃▃▃▃▃
+//本文档仅为APK制作练习测试，直链地址皆来自网络公开免费数据，如有冒犯请联系我们删除；如产生责任使用者自负！
+『電視直播』,#genre#
+制作练习,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
+免费测试,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
+切勿充值,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
+下载可至↓,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
+apck.top,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
+//▃▃▃▃▃▃▃▃▃
 央视频道A,#genre#
 CCTV1综合,http://go.bkpcp.top/mg/cctv1 
 CCTV2财经,http://go.bkpcp.top/mg/cctv2 
